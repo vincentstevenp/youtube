@@ -108,7 +108,7 @@ class _YouTubeHomePageState extends State<YouTubeHomePage> {
           ),
           SizedBox(height: 4),
           Text(
-            'Random Vid • 2.2M views • 6 days ago',
+            'Cong TV • 2.2M views • 6 days ago',
             style: TextStyle(color: Colors.grey),
           ),
           Divider(
